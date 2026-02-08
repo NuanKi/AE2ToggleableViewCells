@@ -1,5 +1,5 @@
 [![Downloads](http://cf.way2muchnoise.eu/REPLACE_PROJECT_ID.svg)](https://www.curseforge.com/minecraft/mc-mods/ae2-toggleable-view-cells)
-[![MCVersion](http://cf.way2muchnoise.eu/versions/REPLACE_PROJECT_ID.svg)](https://www.curseforge.com/minecraft/mc-mods/ae2-toggleable-view-cell)
+[![MCVersion](http://cf.way2muchnoise.eu/versions/REPLACE_PROJECT_ID.svg)](https://www.curseforge.com/minecraft/mc-mods/ae2-toggleable-view-cells)
 [![GitHub issues](https://img.shields.io/github/issues/NuanKi/REPLACE_REPO.svg)](https://github.com/NuanKi/AE2ToggleableViewCells/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/NuanKi/REPLACE_REPO.svg)](https://github.com/NuanKi/AE2ToggleableViewCells/pulls)
 
@@ -8,7 +8,7 @@
 Adds an **on/off toggle** to Applied Energistics 2 View Cells so you can temporarily disable their filtering without removing them or clearing their configuration.
 
 ## CurseForge
-https://www.curseforge.com/minecraft/mc-mods/REPLACE_SLUG
+https://www.curseforge.com/minecraft/mc-mods/ae2-toggleable-view-cells
 
 ## Features
 - Toggle AE2 View Cell filtering **Enabled / Disabled**
