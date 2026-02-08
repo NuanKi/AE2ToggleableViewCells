@@ -1,0 +1,6 @@
+tooltip.appliedenergistics2.view_cell.filter=过滤器：%s
+tooltip.appliedenergistics2.view_cell.state.enabled=已启用
+tooltip.appliedenergistics2.view_cell.state.disabled=已禁用
+chat.appliedenergistics2.view_cell.filter_prefix=显示元件过滤器：
+chat.appliedenergistics2.view_cell.state.enabled= 已启用
+chat.appliedenergistics2.view_cell.state.disabled= 已禁用
