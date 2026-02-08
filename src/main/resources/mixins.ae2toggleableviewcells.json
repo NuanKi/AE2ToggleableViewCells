@@ -1,0 +1,14 @@
+{
+  "package": "me.emvoh.ae2toggleableviewcells.mixin",
+  "refmap": "mixins.ae2toggleableviewcells.refmap.json",
+  "target": "@env(DEFAULT)",
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinItemViewCell_CreateFilter_ToggleSupport",
+    "MixinItemViewCell_ToggleUi",
+    "MixinAEBaseContainer_ViewCellSlotToggle"
+  ],
+  "client": [],
+  "server": []
+}

@@ -1,0 +1,6 @@
+tooltip.appliedenergistics2.view_cell.filter=Filter: %s
+tooltip.appliedenergistics2.view_cell.state.enabled=Enabled
+tooltip.appliedenergistics2.view_cell.state.disabled=Disabled
+chat.appliedenergistics2.view_cell.filter_prefix=View Cell Filter:
+chat.appliedenergistics2.view_cell.state.enabled= Enabled
+chat.appliedenergistics2.view_cell.state.disabled= Disabled
