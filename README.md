@@ -1,7 +1,7 @@
-[![Downloads](http://cf.way2muchnoise.eu/REPLACE_PROJECT_ID.svg)](https://www.curseforge.com/minecraft/mc-mods/ae2-toggleable-view-cells)
-[![MCVersion](http://cf.way2muchnoise.eu/versions/REPLACE_PROJECT_ID.svg)](https://www.curseforge.com/minecraft/mc-mods/ae2-toggleable-view-cells)
-[![GitHub issues](https://img.shields.io/github/issues/NuanKi/REPLACE_REPO.svg)](https://github.com/NuanKi/AE2ToggleableViewCells/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/NuanKi/REPLACE_REPO.svg)](https://github.com/NuanKi/AE2ToggleableViewCells/pulls)
+[![Downloads](http://cf.way2muchnoise.eu/1457036.svg)](https://www.curseforge.com/minecraft/mc-mods/ae2-toggleable-view-cells)
+[![MCVersion](http://cf.way2muchnoise.eu/versions/1457036.svg)](https://www.curseforge.com/minecraft/mc-mods/ae2-toggleable-view-cells)
+[![GitHub issues](https://img.shields.io/github/issues/NuanKi/AE2ToggleableViewCells.svg)](https://github.com/NuanKi/AE2ToggleableViewCells/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/NuanKi/AE2ToggleableViewCells.svg)](https://github.com/NuanKi/AE2ToggleableViewCells/pulls)
 
 # AE2 Toggleable View Cells
 

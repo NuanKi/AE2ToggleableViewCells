@@ -46,11 +46,9 @@ public abstract class MixinItemViewCell_ToggleUi extends AEBaseItem {
         Platform.openNbtData(stack).setBoolean(AE2TVC_TAG_FILTER_ENABLED, enabled);
     }
 
-    // This method will be added to ItemViewCell and override Item#onItemRightClick
     public ActionResult<ItemStack> onItemRightClick(final World world, final EntityPlayer player, final EnumHand hand) {
         final ItemStack stack = player.getHeldItem(hand);
 
-        // Match your behavior: sneaking -> let normal behavior happen, not sneaking -> toggle
         if (player.isSneaking()) {
             return super.onItemRightClick(world, player, hand);
         }
@@ -77,7 +75,6 @@ public abstract class MixinItemViewCell_ToggleUi extends AEBaseItem {
         return new ActionResult<>(EnumActionResult.SUCCESS, stack);
     }
 
-    // This method will be added to ItemViewCell and override AEBaseItem#addCheckedInformation
     @SideOnly(Side.CLIENT)
     protected void addCheckedInformation(final ItemStack stack, final World world, final List<String> lines, final ITooltipFlag advancedTooltips) {
         final boolean enabled = ae2tvc$isEnabled(stack);
